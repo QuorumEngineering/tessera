@@ -8,7 +8,7 @@
 
 > __Important: If using version 21.4.1 and earlier__ <br/>Tessera is now released as a zipped distribution instead of an uber jar.  If using version 21.4.1 and earlier, see the [previous README](https://github.com/ConsenSys/tessera/tree/tessera-21.4.1).
 
-Tessera is a stateless Java system that is used to enable the encryption, decryption, and distribution of private transactions for [Quorum](https://github.com/consensys/quorum/) and/or [Besu](http://github.com/hyperledger/besu)
+Tessera is a stateless Java system that is used to enable the encryption, decryption, and distribution of private transactions for [Quorum](https://github.com/consensys/quorum/)
 
 Each Tessera node:
 
